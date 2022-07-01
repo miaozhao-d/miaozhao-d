@@ -19,8 +19,8 @@
 - Current: [A-Comosus](https://uat.a-comosus.link/), a project where some girls and guys are playing with some web techs  👩‍💻🧑‍💻🍍. 
 - Current: Learning something cool with other girls at [She Codes](https://shecodes.com.au/) 🥳
 - November 2021: 📚 Completed a bootcamp training in web development with two projects:
-[Great Phermesia](https://www.greatphermesia.com/), a MERN stack project
-[A Weather APP](https://miaozhaod.github.io/weatherapp/) to learn ReactJS
+[Great Phermesia](https://www.greatphermesia.com/), a MERN stack project </br>
+[A Weather APP](https://miaozhaod.github.io/weatherapp/) to learn ReactJS </br>
 - August 2019 - November 2020: 💻 Part of my study, I did a three months' placement as a web developer at Team Think Agency based in Lauceston Tasmania. Afterwords, I worked on some sub-contract projects with the team.
 - 2014 -2016: 💡 UX Designer at C3 Design Strategy based in Beijing China 🇨🇳.
 - btw, I personally love [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.ed60a6f85c663923c4d6ee9d85f359cd.svg" style="width:100px;height:auto">](https://tailwindcss.com/) 
