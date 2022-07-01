@@ -13,6 +13,7 @@
 - 📍 Based in Brisbane, Australia 🇦🇺 </br>
 - 🍕 Love attending tech meetups, like ReactBris, and still exploring more </br>
 - 🎨 Love drawing and painting, Procreate is a lot of fun [<img src="https://img.icons8.com/color/344/procreate.png" style="width:20px;height:auto;"/>](https://img.icons8.com/color/344/procreate.png)
+- 🐕 A dog person
 
 ## Something cool
 - Current: UX/UI Frontend Developer at Pioneera
