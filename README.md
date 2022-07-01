@@ -7,7 +7,7 @@
 * ##### 👧🏻 A member of the She Codes Plus Brisbane 2022.
 
 
-## About me:
+## About me
 ✅ Full-stack Developer </br>
 ✅ UX Designer </br>
 📍 Based in Brisbane, Australia 🇦🇺 </br>
