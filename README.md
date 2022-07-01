@@ -8,10 +8,10 @@
 
 
 ## About me:
-✅ Full-stack Developer
-✅ UX Designer
-📍 Based in Brisbane, Australia 🇦🇺
-🍕 Love attending tech meetups, like ReactBris, and still exploring more
+✅ Full-stack Developer </br>
+✅ UX Designer </br>
+📍 Based in Brisbane, Australia 🇦🇺 </br>
+🍕 Love attending tech meetups, like ReactBris, and still exploring more </br>
 🎨 Love drawing and painting, Procreate is a lot of fun [<img src="https://img.icons8.com/color/344/procreate.png" style="width:20px;height:auto;"/>](https://img.icons8.com/color/344/procreate.png)
 
 ## Something cool
