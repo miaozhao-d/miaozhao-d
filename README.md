@@ -1,4 +1,4 @@
-## Hey there 👋 My name is Miao (She/Her) 🐱
+## Hey there 👋 My name is Miao (She/Her)
 
 [View My Portfolio](https://miaozhaod.github.io/portfolio/#/)
 
