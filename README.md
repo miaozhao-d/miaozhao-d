@@ -17,8 +17,8 @@
 
 ## Something cool
 - Current: UX/UI Frontend Developer at Pioneera
-- Current: [A-Comosus](https://uat.a-comosus.link/), a project where some girls and guys are playing with some web techs  👩‍💻🧑‍💻🍍. 
 - Current: Learning something cool with other girls at [She Codes](https://shecodes.com.au/) 🥳
+- May - Aug 2022: [A-Comosus](https://uat.a-comosus.link/), a project where some girls and guys are playing with some web techs  👩‍💻🧑‍💻🍍. 
 - November 2021: 📚 Completed a bootcamp training in web development with two projects: </br>
 [Great Phermesia](https://www.greatphermesia.com/), a MERN stack project </br>
 [A Weather APP](https://miaozhaod.github.io/weatherapp/) to learn ReactJS </br>
