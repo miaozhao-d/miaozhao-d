@@ -24,7 +24,7 @@
 [A Weather APP](https://miaozhaod.github.io/weatherapp/) to learn ReactJS </br>
 - August 2019 - November 2020: 💻 Part of my study, I did a three months' placement as a web developer at Team Think Agency based in Lauceston Tasmania. Afterwords, I worked on some sub-contract projects with the team.
 - 2014 -2016: 💡 UX Designer at C3 Design Strategy based in Beijing China 🇨🇳.
-- btw, I personally love [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.ed60a6f85c663923c4d6ee9d85f359cd.svg" style="width:100px;height:auto">](https://tailwindcss.com/) 
+- btw, I personally love [TailwindCSS](https://tailwindcss.com/) 
 
 
 
