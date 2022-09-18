@@ -1,4 +1,4 @@
-## Hey there 👋 My name is Miao (She/Her)
+## Hey I'm Miao 👋
 
 [View My Portfolio](https://miaozhaod.github.io/portfolio/#/)
 
@@ -26,7 +26,10 @@
 - 2014 -2016: 💡 UX Designer at C3 Design Strategy based in Beijing China 🇨🇳.
 - btw, I personally love [TailwindCSS](https://tailwindcss.com/) 
 
+## GitHub Stats
+![Miao's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaozhaod&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaozhaod&layout=compact&hide=html&count_private=true)](https://github.com/miaozhaod/github-readme-stats)
 
 
 
