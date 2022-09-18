@@ -3,7 +3,7 @@
 [View My Portfolio](https://miaozhaod.github.io/portfolio/#/)
 
 - 👩‍💻 I like coding, learning new stuff, and crafting beautiful things.
-- 😎 I have design thinking and programming thinking.
+- 😎 I am a developer with design thinking.
 - 👧🏻 A member of the She Codes Plus Brisbane 2022.
 
 
@@ -11,8 +11,8 @@
 - ✅ Full-stack Developer </br>
 - ✅ UX Designer </br>
 - 📍 Based in Brisbane, Australia 🇦🇺 </br>
-- 🍕 Love attending tech meetups, like ReactBris, and still exploring more </br>
-- 🎨 Love drawing and painting, Procreate is a lot of fun [<img src="https://img.icons8.com/color/344/procreate.png" style="width:20px;height:auto;"/>](https://img.icons8.com/color/344/procreate.png)
+- 🍕 Love attending tech meetups </br>
+- 🎨 Love watercolour, acrylics and digital arts </br>
 - 🐕 A dog person
 
 ## Something cool
