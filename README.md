@@ -1,6 +1,6 @@
-## Hey I'm Miao 👋 
+# Hey I'm Miao 👋 
 
-#### [👀 View My Portfolio 💼 ](https://miaozhaod.github.io/portfolio/#/)
+### [👀 View My Portfolio](https://miaozhaod.github.io/portfolio/#/)
 
 - 👩‍💻 A Full-stack Developer with Design Thinking
 - 👧🏻 A member of the She Codes Plus Brisbane Cohort 2022.
