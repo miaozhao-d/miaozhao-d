@@ -3,7 +3,7 @@
 ### [👀 View My Portfolio](https://miaozhaod.github.io/portfolio/#/)
 
 - 👩‍💻 A Full-stack Developer
-- 👧🏻 A member of the [She Codes Plus Brisbane Cohort 2022](https://shecodes.com.au/program/plus/).
+- 👧🏻 A graduate of the [She Codes Plus Brisbane Cohort 2022](https://shecodes.com.au/program/plus/).
 - 🍕 Love attending tech meetups to learn the new things in the tech industry, and meet people! </br>
 - 🎨 Love watercolour, acrylics and digital arts </br>
 - 🐕 A dog person
